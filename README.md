@@ -38,7 +38,7 @@ Fresh-file writes were confirmed in the following directories:
 Reads are indirect: a known file is moved into Media, read through AFC, and
 moved back.
 
-As of now, this does **not** work on the MobileGestalt plist.
+The MobileGestalt plist can be **read** (extracted) but **not** written.
 
 #### Components
 
